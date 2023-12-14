@@ -1,13 +1,28 @@
+body {
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Fvetores-gratis%2Fdesenho-de-fundo-de-textura-de-papel-envelhecido_15740653.htm&psig=AOvVaw0R50lnM8qv4U_afb6Ee6RB&ust=1702648686025000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjW1OWKj4MDFQAAAAAdAAAAABAD);
+}
+
+
+
+
+
+
+
+
+
+
+
+
 #galery {
     background-color: #000;
+    background-size: cover;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
+    color: white;
+    
 }
 img {
 width: 45%;
-background-color: #000;
-column-count: 2;
 border-radius: 4px;
-border: auto;
 }
 
