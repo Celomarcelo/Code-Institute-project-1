@@ -1,5 +1,22 @@
-body {
-    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Fvetores-gratis%2Fdesenho-de-fundo-de-textura-de-papel-envelhecido_15740653.htm&psig=AOvVaw0R50lnM8qv4U_afb6Ee6RB&ust=1702648686025000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjW1OWKj4MDFQAAAAAdAAAAABAD);
+.index {
+    background-color: white;
+    background-image: url('https://img.freepik.com/vetores-gratis/desenho-de-fundo-de-textura-de-papel-envelhecido_60389-141.jpg');
+    background-size: cover;
+    font-weight: 200px;
+    text-align: center;
+    max-width: 100%;
+    margin: 10%;
+
+    
+}
+.nav-list {
+    font-size: 30px;
+}
+header {
+    font-size: 50px;
+    font-family: 'Script MT', 'Lucida Sans', sans-serif;
+    border-style: double;
+    border-width: 6px;
 }
 
 
